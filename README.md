@@ -5,6 +5,8 @@ A company X required a churn model to mitigate the monetary losses from discount
 
 All the analysis is shown in an html file, the source code is on the jupyter notebook (.ipynb). 
 
+**data was not uploaded for privacy matters**
+
 ## EDA
 ### Categorical Variable Analysis
 <p align="center">
