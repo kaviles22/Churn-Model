@@ -29,7 +29,7 @@ A company X required a churn model to mitigate the monetary losses from discount
 
 ### 3. Random Forest
 <p align="center">
-<img src="https://github.com/kaviles22/Churn-Model/blob/main/static/random_forest.png"  width="80%" height="70%"/>
+<img src="https://github.com/kaviles22/Churn-Model/blob/main/static/random_for.png"  width="80%" height="70%"/>
 </p>
 
 ### 4. KNN
